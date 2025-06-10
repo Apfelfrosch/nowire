@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_login_pin">Login PIN eingeben</string>
+    <string name="wrong_pin">Falscher PIN</string>
+    <string name="forgot_pin">PIN vergessen?</string>
+    <string name="confirm_delete_app_data">Wirklich alle Daten Löschen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="set_login_pin">Login PIN festlegen</string>
+    <string name="confirm_pin">PIN bestätigen</string>
+    <string name="delete_selected_chats">Ausgewählte Chats wirklich löschen?</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="not_confirm">Abbrechen</string>
+    <string name="room">Raum</string>
+    <string name="contact_name">Name des Kontakts</string>
+    <string name="start">Start</string>
+    <string name="network_error">Netzwerk Fehler</string>
+    <string name="waiting_for_other_party">Warten auf Gegenüber...</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="start_offline_setup">Offline Setup Starten</string>
+    <string name="import_offline_setup">Offline Setup Empfangen</string>
+    <string name="online_setup">Online Setup</string>
+    <string name="you">Du</string>
+    <string name="delete_selected_messages">Ausgewählte Nachrichten wirklich löschen?</string>
+    <string name="error_sending_message">Fehler beim Senden der Nachricht.</string>
+    <string name="no_chats_stored">Keine Chats</string>
+    <string name="icon_desc_pin_selected_chats">Ausgewählte Chats anpinnen</string>
+    <string name="icon_desc_mark_selected_chats_as_read">Ausgewählte Chats als gelesen markieren</string>
+    <string name="icon_desc_delete_selected_chats">Ausgewählte Chats löschen</string>
+    <string name="icon_desc_unselect_chats">Auswahl entfernen</string>
+    <string name="icon_desc_add_chat_button">Chat hinzufügen</string>
+    <string name="icon_desc_message_list_scroll_back_to_bottom">Zurück zum Anfang scrollen</string>
+    <string name="icon_desc_delete_selected_messages">Ausgewählte Nachrichten löschen</string>
+    <string name="icon_desc_opened_chat_go_back">Zurück</string>
+    <string name="icon_desc_cancel_respond">Nicht mehr antworten</string>
+    <string name="icon_desc_send_message_button">Nachricht senden</string>
+    <string name="icon_desc_pin_field_backspace">Rücktaste</string>
+    <string name="camera_permission_reason">Die Kamera wird benötigt, um einen QRCode zu scannen.</string>
+    <string name="settings">Einstellungen</string>
+    <string name="settings_theme_light">Hell</string>
+    <string name="settings_theme_dark">Dunkel</string>
+    <string name="settings_theme_system">System</string>
+    <string name="icon_desc_open_settings">Einstellungen öffnen</string>
+    <string name="settings_design_section">Design</string>
+    <string name="network_error_chat_not_usable_anymore">Durch einen Netzwerk fehler ist dieser Chat nicht mehr verwendbar.</string>
+    <string name="network_error_chat_unusable_please_recreate">Bitte erstelle einen neuen</string>
+</resources>

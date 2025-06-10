@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name" translatable="false">NoWire</string>
+    <string name="enter_login_pin">Enter login PIN</string>
+    <string name="wrong_pin">Incorrect PIN</string>
+    <string name="forgot_pin">Forgot PIN?</string>
+    <string name="confirm_delete_app_data">Delete app data?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="set_login_pin">Set Login PIN</string>
+    <string name="confirm_pin">Confirm PIN</string>
+    <string name="delete_selected_chats">Delete selected chats?</string>
+    <string name="confirm">Confirm</string>
+    <string name="not_confirm">Cancel</string>
+    <string name="room">Room</string>
+    <string name="contact_name">Contact\'s name</string>
+    <string name="start">Start</string>
+    <string name="network_error">Network error</string>
+    <string name="waiting_for_other_party">Waiting for other party...</string>
+    <string name="cancel">Cancel</string>
+    <string name="start_offline_setup">Start offline setup</string>
+    <string name="import_offline_setup">Import offline setup</string>
+    <string name="online_setup">Start online setup</string>
+    <string name="you">You</string>
+    <string name="delete_selected_messages">Delete selected messages?</string>
+    <string name="error_sending_message">Error sending the message</string>
+    <string name="no_chats_stored">No chats</string>
+    <string name="icon_desc_pin_selected_chats">Pin selected chats</string>
+    <string name="icon_desc_mark_selected_chats_as_read">Mark selected chats read</string>
+    <string name="icon_desc_delete_selected_chats">Delete selected chats</string>
+    <string name="icon_desc_unselect_chats">Unselect chats</string>
+    <string name="icon_desc_add_chat_button">Add chat</string>
+    <string name="icon_desc_message_list_scroll_back_to_bottom">Scroll back to bottom</string>
+    <string name="icon_desc_delete_selected_messages">Delete selected messages</string>
+    <string name="icon_desc_opened_chat_go_back">Back</string>
+    <string name="icon_desc_cancel_respond">Don\'t respond</string>
+    <string name="icon_desc_send_message_button">Send message</string>
+    <string name="icon_desc_pin_field_backspace">Backspace</string>
+    <string name="preference_file_key" translatable="false">tech.nowire.chat</string>
+    <string name="camera_permission_reason">Access to camera is needed to scan a QRCode</string>
+    <string name="settings">Settings</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_system">System</string>
+    <string name="icon_desc_open_settings">Open settings</string>
+    <string name="settings_design_section">Design</string>
+    <string name="network_error_chat_not_usable_anymore">Due to a network error, this chat is now unusable.</string>
+    <string name="network_error_chat_unusable_please_recreate">Please create a new one.</string>
+</resources>
